@@ -3,7 +3,7 @@ Banking Management System
 A simple, console-based banking management system created in Java. This project demonstrates basic object-oriented programming (OOP) principles and handles common banking operations.
 
 
-## ✨ Features
+##  Features
 
 - **Create New Account:** Generate a new bank account with a unique, randomly generated account number.
 - **Deposit Funds:** Add money to an existing account.
@@ -13,7 +13,7 @@ A simple, console-based banking management system created in Java. This project 
 - **Interactive Menu:** An easy-to-use, menu-driven interface for all operations.
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Language:** Java
 - **Core Concepts:** Object-Oriented Programming (OOP), `SQL` for data storage, `Scanner` for user input.
